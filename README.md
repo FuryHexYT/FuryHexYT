@@ -10,7 +10,10 @@ A 3D battle royale shooter game built using Unity and C#. Inspired by top shoote
 
 ## Built With
 - Unity (Cloud Build)
-- C# scripts## Hi there 👋
+- C# scripts
+
+## Hi there 👋
+Welcome to the repository! Feel free to explore and contribute.
 
 <!--
 **FuryHexYT/FuryHexYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
