@@ -1,4 +1,16 @@
-## Hi there 👋
+# India's Battle Royale Game
+
+A 3D battle royale shooter game built using Unity and C#. Inspired by top shooter games, with custom maps, characters, and gameplay made for Indian gamers.
+
+## Features
+- Third-person movement
+- Shooting system
+- Loot and weapon pickups (coming soon)
+- Shrinking safe zone (planned)
+
+## Built With
+- Unity (Cloud Build)
+- C# scripts## Hi there 👋
 
 <!--
 **FuryHexYT/FuryHexYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
